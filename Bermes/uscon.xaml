@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="Bermes.uscon"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Bermes"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Canvas x:Name="canca" HorizontalAlignment="Left" Height="440" Margin="0,10,0,-0.4" VerticalAlignment="Top" Width="800" Background="#FFEDE3E3"/>
+
+    </Grid>
+</UserControl>

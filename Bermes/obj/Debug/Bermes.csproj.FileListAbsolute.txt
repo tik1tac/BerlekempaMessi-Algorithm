@@ -1,0 +1,95 @@
+c:\users\admin\documents\visual studio 2015\Projects\Bermes\Bermes\bin\Debug\Bermes.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Bermes\Bermes\bin\Debug\Bermes.exe
+c:\users\admin\documents\visual studio 2015\Projects\Bermes\Bermes\bin\Debug\Bermes.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Bermes\Bermes\obj\Debug\Bermes.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\Bermes\Bermes\obj\Debug\Bermes.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Bermes\Bermes\obj\Debug\Bermes.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Bermes\Bermes\obj\Debug\Bermes.exe
+c:\users\admin\documents\visual studio 2015\Projects\Bermes\Bermes\obj\Debug\Bermes.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Bermes\Bermes\obj\Debug\Bermes.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Bermes\Bermes\obj\Debug\Bermes.Table.resources
+C:\Users\user\source\repos\Bermes\Bermes\bin\Debug\Bermes.exe.config
+C:\Users\user\source\repos\Bermes\Bermes\bin\Debug\Bermes.exe
+C:\Users\user\source\repos\Bermes\Bermes\bin\Debug\Bermes.pdb
+C:\Users\user\source\repos\Bermes\Bermes\obj\Debug\Bermes.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Bermes\Bermes\obj\Debug\Bermes.Form1.resources
+C:\Users\user\source\repos\Bermes\Bermes\obj\Debug\Bermes.Properties.Resources.resources
+C:\Users\user\source\repos\Bermes\Bermes\obj\Debug\Bermes.Table.resources
+C:\Users\user\source\repos\Bermes\Bermes\obj\Debug\Bermes.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Bermes\Bermes\obj\Debug\Bermes.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Bermes\Bermes\obj\Debug\Bermes.exe
+C:\Users\user\source\repos\Bermes\Bermes\obj\Debug\Bermes.pdb
+C:\Users\Admin\Desktop\для меня\Bermes\Bermes\bin\Debug\Bermes.exe.config
+C:\Users\Admin\Desktop\для меня\Bermes\Bermes\obj\Debug\Bermes.exe
+C:\Users\Admin\Desktop\для меня\Bermes\Bermes\obj\Debug\Bermes.pdb
+C:\Users\Admin\Desktop\для меня\Bermes\Bermes\bin\Debug\Bermes.exe
+C:\Users\Admin\Desktop\для меня\Bermes\Bermes\bin\Debug\Bermes.pdb
+C:\Users\Admin\Desktop\для меня\Bermes\Bermes\obj\Debug\Bermes.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\для меня\Bermes\Bermes\obj\Debug\Bermes.Form1.resources
+C:\Users\Admin\Desktop\для меня\Bermes\Bermes\obj\Debug\Bermes.Properties.Resources.resources
+C:\Users\Admin\Desktop\для меня\Bermes\Bermes\obj\Debug\Bermes.Table.resources
+C:\Users\Admin\Desktop\для меня\Bermes\Bermes\obj\Debug\Bermes.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Bermes\Bermes\bin\Debug\Bermes.exe.config
+C:\Users\user\Desktop\Bermes\Bermes\bin\Debug\Bermes.exe
+C:\Users\user\Desktop\Bermes\Bermes\bin\Debug\Bermes.pdb
+C:\Users\user\Desktop\Bermes\Bermes\obj\Debug\Bermes.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Bermes\Bermes\obj\Debug\Bermes.Form1.resources
+C:\Users\user\Desktop\Bermes\Bermes\obj\Debug\Bermes.Properties.Resources.resources
+C:\Users\user\Desktop\Bermes\Bermes\obj\Debug\Bermes.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Bermes\Bermes\obj\Debug\Bermes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Bermes\Bermes\obj\Debug\Bermes.exe
+C:\Users\user\Desktop\Bermes\Bermes\obj\Debug\Bermes.pdb
+C:\Users\Admin\Desktop\Bermes\Bermes\bin\Debug\Bermes.exe.config
+C:\Users\Admin\Desktop\Bermes\Bermes\obj\Debug\Bermes.exe
+C:\Users\Admin\Desktop\Bermes\Bermes\obj\Debug\Bermes.pdb
+C:\Users\Admin\Desktop\Bermes\Bermes\bin\Debug\Bermes.exe
+C:\Users\Admin\Desktop\Bermes\Bermes\bin\Debug\Bermes.pdb
+C:\Users\Admin\Desktop\Bermes\Bermes\obj\Debug\Bermes.Form1.resources
+C:\Users\Admin\Desktop\Bermes\Bermes\obj\Debug\Bermes.Properties.Resources.resources
+C:\Users\Admin\Desktop\Bermes\Bermes\obj\Debug\Bermes.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Bermes_new\Bermes\bin\Debug\Bermes.exe.config
+C:\Users\Admin\Desktop\Bermes_new\Bermes\obj\Debug\Bermes.exe
+C:\Users\Admin\Desktop\Bermes_new\Bermes\obj\Debug\Bermes.pdb
+C:\Users\Admin\Desktop\Bermes_new\Bermes\bin\Debug\Bermes.exe
+C:\Users\Admin\Desktop\Bermes_new\Bermes\bin\Debug\Bermes.pdb
+C:\Users\Admin\Desktop\Bermes_new\Bermes\obj\Debug\Bermes.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Bermes_new\Bermes\obj\Debug\uscon.g.cs
+C:\Users\Admin\Desktop\Bermes_new\Bermes\obj\Debug\Bermes_MarkupCompile.cache
+C:\Users\Admin\Desktop\Bermes_new\Bermes\obj\Debug\Bermes_MarkupCompile.lref
+C:\Users\Admin\Desktop\Bermes_new\Bermes\obj\Debug\uscon.baml
+C:\Users\Admin\Desktop\Bermes_new\Bermes\obj\Debug\Bermes.g.resources
+C:\Users\Admin\Desktop\Bermes_new\Bermes\obj\Debug\Bermes.Form1.resources
+C:\Users\Admin\Desktop\Bermes_new\Bermes\obj\Debug\Bermes.Properties.Resources.resources
+C:\Users\Admin\Desktop\Bermes_new\Bermes\obj\Debug\Bermes.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\zabrat\Bermes_new_new\Bermes\bin\Debug\Bermes.exe.config
+C:\Users\user\Desktop\zabrat\Bermes_new_new\Bermes\bin\Debug\Bermes.exe
+C:\Users\user\Desktop\zabrat\Bermes_new_new\Bermes\bin\Debug\Bermes.pdb
+C:\Users\user\Desktop\zabrat\Bermes_new_new\Bermes\obj\Debug\Bermes.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\zabrat\Bermes_new_new\Bermes\obj\Debug\uscon.g.cs
+C:\Users\user\Desktop\zabrat\Bermes_new_new\Bermes\obj\Debug\Bermes_MarkupCompile.cache
+C:\Users\user\Desktop\zabrat\Bermes_new_new\Bermes\obj\Debug\Bermes_MarkupCompile.lref
+C:\Users\user\Desktop\zabrat\Bermes_new_new\Bermes\obj\Debug\uscon.baml
+C:\Users\user\Desktop\zabrat\Bermes_new_new\Bermes\obj\Debug\Bermes.g.resources
+C:\Users\user\Desktop\zabrat\Bermes_new_new\Bermes\obj\Debug\Bermes.Form1.resources
+C:\Users\user\Desktop\zabrat\Bermes_new_new\Bermes\obj\Debug\Bermes.Properties.Resources.resources
+C:\Users\user\Desktop\zabrat\Bermes_new_new\Bermes\obj\Debug\Bermes.csproj.GenerateResource.cache
+C:\Users\user\Desktop\zabrat\Bermes_new_new\Bermes\obj\Debug\Bermes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\zabrat\Bermes_new_new\Bermes\obj\Debug\Bermes.exe
+C:\Users\user\Desktop\zabrat\Bermes_new_new\Bermes\obj\Debug\Bermes.pdb
+Y:\прог\программы\Bermes\Bermes\bin\Debug\Bermes.exe.config
+Y:\прог\программы\Bermes\Bermes\bin\Debug\Bermes.exe
+Y:\прог\программы\Bermes\Bermes\bin\Debug\Bermes.pdb
+Y:\прог\программы\Bermes\Bermes\obj\Debug\Bermes.csproj.AssemblyReference.cache
+Y:\прог\программы\Bermes\Bermes\obj\Debug\uscon.g.cs
+Y:\прог\программы\Bermes\Bermes\obj\Debug\Bermes_MarkupCompile.cache
+Y:\прог\программы\Bermes\Bermes\obj\Debug\Bermes_MarkupCompile.lref
+Y:\прог\программы\Bermes\Bermes\obj\Debug\uscon.baml
+Y:\прог\программы\Bermes\Bermes\obj\Debug\Bermes.g.resources
+Y:\прог\программы\Bermes\Bermes\obj\Debug\Bermes.Form1.resources
+Y:\прог\программы\Bermes\Bermes\obj\Debug\Bermes.Properties.Resources.resources
+Y:\прог\программы\Bermes\Bermes\obj\Debug\Bermes.csproj.GenerateResource.cache
+Y:\прог\программы\Bermes\Bermes\obj\Debug\Bermes.csproj.CoreCompileInputs.cache
+Y:\прог\программы\Bermes\Bermes\obj\Debug\Bermes.exe
+Y:\прог\программы\Bermes\Bermes\obj\Debug\Bermes.pdb
+C:\Users\Admin\Desktop\Bermes\Bermes\obj\Debug\Bermes.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Bermes\Bermes\obj\Debug\Bermes.csproj.CoreCompileInputs.cache
